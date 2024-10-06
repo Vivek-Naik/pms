@@ -1,2 +1,2 @@
 # Placement Management System using PHP
-### [click here](http://pmsproject.lovestoblog.com/)
+### [click here to visit ](http://pmsproject.lovestoblog.com/)
